@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v5.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/freemarker-2.3.18.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javassist-3.11.0.GA.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/ognl-3.0.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/struts2-core-2.3.1.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/struts2-dojo-plugin-2.3.1.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/xwork-core-2.3.1.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/axis-1.4.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/commons-fileupload-1.3.3.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/itext-pdfa-5.4.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/itext-pdfa-5.4.5-sources.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/itext-pdfa-5.4.5.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/itext-xtra-5.4.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/itext-xtra-5.4.5-sources.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/itext-xtra-5.4.5.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/itextpdf-5.4.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/itextpdf-5.4.5-sources.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/itextpdf-5.4.5.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/javax.servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/jaxrpc-api.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/json-lib.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/poi-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/poi-examples-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/poi-excelant-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/poi-ooxml-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/poi-ooxml-schemas-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/poi-scratchpad-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/struts2-core-2.1.2.jar" sourcepath="C:/Users/soporte/AppData/Local/Temp/.org.sf.feeling.decompiler1515595950063/source/struts2-core-2.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/struts2-json-plugin-2.2.3.1.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/SicogenWebCaptura/lib/xwork-core-2.3.12.jar" sourcepath="C:/Users/soporte/AppData/Local/Temp/.org.sf.feeling.decompiler1521144190650/source/xwork-core-2.3.12-sources-1521148805665.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
